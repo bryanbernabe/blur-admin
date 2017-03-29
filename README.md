@@ -17,6 +17,20 @@ Installation, customization and other useful articles: https://akveo.github.io/b
 
 *If you have problems installing and just want to download JS and css files, you can find download links here*: http://akveo.github.io/blur-admin/articles/091-downloads/
 
+### Installation
+
+If you don’t havee any of these tools installed already, you will need to:
+
+- Download and install git
+- Download and install nodejs https://nodejs.org
+
+Note: It seems like there are some problems with some libraries used in this template and old node versions. That’s why we suggest you to have one of the latest.
+
+- npm install
+- gulp serve (this is for dev mode)
+- guld serve:dist (prod mode)
+
+
 ## How can I support developers?
 - Star our GitHub repo
 - Create pull requests, submit bugs, suggest new features or documentation updates
@@ -46,16 +60,3 @@ License
 
 Enjoy!
 We're always happy to hear your feedback.
-
-### Installation
-
-If you don’t havee any of these tools installed already, you will need to:
-
-- Download and install git
-- Download and install nodejs https://nodejs.org
-
-Note: It seems like there are some problems with some libraries used in this template and old node versions. That’s why we suggest you to have one of the latest.
-
-- npm install
-- gulp serve (this is for dev mode)
-- guld serve:dist (prod mode)
