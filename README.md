@@ -46,3 +46,16 @@ License
 
 Enjoy!
 We're always happy to hear your feedback.
+
+### Installation
+
+If you don’t havee any of these tools installed already, you will need to:
+
+- Download and install git
+- Download and install nodejs https://nodejs.org
+
+Note: It seems like there are some problems with some libraries used in this template and old node versions. That’s why we suggest you to have one of the latest.
+
+- npm install
+- gulp serve (this is for dev mode)
+- guld serve:dist (prod mode)
